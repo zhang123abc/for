@@ -6,5 +6,9 @@ public class Main {
     public void te(){
 
     }
+    public  void te1(){
+
+    }
+
 
 }
